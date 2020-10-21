@@ -1,0 +1,313 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg
+   xmlns:osb="http://www.openswatchbook.org/uri/2009/osb"
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   width="51mm"
+   height="45mm"
+   viewBox="0 0 51 45"
+   version="1.1"
+   id="svg8"
+   sodipodi:docname="pms3003.svg"
+   inkscape:version="1.0.1 (3bc2e813f5, 2020-09-07)">
+  <defs
+     id="defs2">
+    <linearGradient
+       id="linearGradient1885"
+       osb:paint="solid">
+      <stop
+         style="stop-color:#000000;stop-opacity:1;"
+         offset="0"
+         id="stop1883" />
+    </linearGradient>
+    <pattern
+       id="EMFhbasepattern"
+       patternUnits="userSpaceOnUse"
+       width="6"
+       height="6"
+       x="0"
+       y="0" />
+    <filter
+       inkscape:collect="always"
+       style="color-interpolation-filters:sRGB"
+       id="filter1909"
+       x="-0.0090677738"
+       width="1.0188967"
+       y="-0.030076861"
+       height="1.0291401">
+      <feGaussianBlur
+         inkscape:collect="always"
+         stdDeviation="0.00025033843"
+         id="feGaussianBlur1911" />
+    </filter>
+  </defs>
+  <sodipodi:namedview
+     id="base"
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1.0"
+     inkscape:pageopacity="0.0"
+     inkscape:pageshadow="2"
+     inkscape:zoom="45.254834"
+     inkscape:cx="4.4721734"
+     inkscape:cy="42.966226"
+     inkscape:document-units="mm"
+     inkscape:current-layer="layer1"
+     inkscape:document-rotation="0"
+     showgrid="false"
+     inkscape:window-width="1920"
+     inkscape:window-height="1017"
+     inkscape:window-x="-8"
+     inkscape:window-y="-8"
+     inkscape:window-maximized="1"
+     showguides="true"
+     inkscape:guide-bbox="true">
+    <sodipodi:guide
+       position="14.312284,14.270686"
+       orientation="0,-1"
+       id="guide10896" />
+    <sodipodi:guide
+       position="2.1281336,33.073098"
+       orientation="0,-1"
+       id="guide70448" />
+    <sodipodi:guide
+       position="0.93544335,38.147879"
+       orientation="1,0"
+       id="guide70450" />
+    <sodipodi:guide
+       position="26.262572,30.73449"
+       orientation="1,0"
+       id="guide70452" />
+    <sodipodi:guide
+       position="1.8686198,37.012891"
+       orientation="1,0"
+       id="guide70454" />
+    <sodipodi:guide
+       position="0.13229167,43.644012"
+       orientation="0,-1"
+       id="guide70456" />
+    <sodipodi:guide
+       position="21.29069,43.892058"
+       orientation="1,0"
+       id="guide70458" />
+    <sodipodi:guide
+       position="50.138542,15.895834"
+       orientation="1,0"
+       id="guide70460" />
+    <sodipodi:guide
+       position="25.234636,1.0791668"
+       orientation="0,-1"
+       id="guide70462" />
+  </sodipodi:namedview>
+  <metadata
+     id="metadata5">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+        <dc:title></dc:title>
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <g
+     inkscape:label="레이어 1"
+     inkscape:groupmode="layer"
+     id="layer1">
+    <path
+       style="mix-blend-mode:normal;fill:#5d5d5d;fill-opacity:1;fill-rule:nonzero;stroke:#000000;stroke-width:0.264583px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1;filter:url(#filter1909)"
+       d="M 3.0345271,1.3559887 H 20.398511 l 0.28341,0.00714 0.396875,0.1984375 0.165365,0.2480468 0.04653,0.2149742 0,7.1520187 c 0,0.1464164 -0.134377,0.2452905 -0.244974,0.3059241 l -0.496094,-0.1322917 -0.496093,-0.06615 h -0.926042 l -16.3710933,0.08268 -0.314193,0.04961 -0.281119,0.06615 -0.198438,0.06615 v 2e-7 l -0.094024,-0.4435646 1e-7,-6.7822479 V 1.953648 c 0,-0.1435776 0.1357366,-0.2499482 0.1881019,-0.294307 C 2.1945868,1.572173 2.4296484,1.362425 2.6458336,1.3844178 Z"
+       id="path870"
+       sodipodi:nodetypes="cccccccccccccccccccccc" />
+    <path
+       style="fill:#5d5d5d;fill-opacity:1;stroke:#000000;stroke-width:0.264583px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       d="m 2.1610817,9.4825239 -0.198438,0.06615 -0.06837,0.3319454 0.01169,0.5495727 -0.02339,0.479414 -0.152009,0.608038 -0.09354,0.233861 -0.2163213,0.175397 20.0211516,-0.04163 C 21.29069,11.780272 21.29069,11.675267 21.29069,11.517644 V 11.149313 10.301568 9.7169166 c 0,-0.10326 -0.126525,-0.2070252 -0.244981,-0.2344 l -0.258375,-0.078549 -0.237719,-0.053745 -0.496092,-0.06615 -17.2971353,0.08268 -0.314193,0.04961 z"
+       id="path1918"
+       sodipodi:nodetypes="cccccccccccccccccccc" />
+    <path
+       style="fill:#d2d2d2;fill-opacity:1;stroke:#000000;stroke-width:0.264583px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       d="M 26.262572,12.207576 V 43.986979 L 9.7678874,43.920833 C 7.3255666,43.388825 6.107224,41.801343 5.7495284,39.793852 5.5151529,39.14496 4.4719209,38.629027 3.6163247,38.504008 1.7974483,37.793311 1.1758298,36.627105 0.93546734,35.345544 V 12.411337 c 0,-0.339733 0.21485966,-0.484435 0.42533436,-0.484435 H 25.978457 c 0.112733,0 0.284115,0.135657 0.284115,0.280674 z"
+       id="path1920"
+       sodipodi:nodetypes="cccccccccc" />
+    <path
+       style="fill:#d2d2d2;fill-opacity:1;stroke:#000000;stroke-width:0.264583px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       d="m 41.815523,11.946455 0.959114,0.165365 0.463021,0.214974 1.190625,0.876433 0.51263,0.644922 0.28112,0.677994 0.529167,1.289844 0.46302,0.51263 0.496094,0.297657 1.124479,0.363802 0.512631,0.297656 0.975651,0.926042 0.562239,0.926041 0.253227,1.157553 v 18.884634 c -0.321321,2.906913 -1.606938,4.080877 -4.309509,4.804977 l -19.56646,0 0.02521,-31.924771 z"
+       id="path1922"
+       sodipodi:nodetypes="ccccccccccccccccccc" />
+    <path
+       style="fill:#d2d2d2;fill-opacity:1;stroke:#000000;stroke-width:0.264583px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       d="m 3.2272797,0.56126609 0.77174,-0.011693 0.859439,0.040926 0.298172,0.20462827 0.08185,0.22216764 0.024806,0.3386937 H 2.8200278 l -0.2620651,0.05474 v 0 l -0.1685099,0.035369 -0.068384,-0.066318 -0.05846,-0.1520095 -0.01169,-0.1987818 0.05262,-0.15200947 0.157855,-0.12277687 0.362485,-0.14031677 z"
+       id="path1924"
+       sodipodi:nodetypes="ccccccccccccccccc" />
+    <path
+       style="fill:#d2d2d2;fill-opacity:1;stroke:#000000;stroke-width:0.264583px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       d="m 20.012605,0.49027739 -1.631179,0.029233 -0.298173,0.20462827 -0.08185,0.22216777 0,0.40968227 2.367839,0 0.312679,-0.01625 0,0.02339 0.131657,-0.00714 0.105237,-0.047199 0.05847,-0.1520095 0.01169,-0.19878177 -0.05262,-0.15200947 -0.157856,-0.1227769 -0.362484,-0.14031687 z"
+       id="path1924-7"
+       sodipodi:nodetypes="cccccccccccccccc" />
+    <g
+       id="g10915"
+       transform="translate(-0.14031646,5.4723434)">
+      <g
+         id="copper"
+         gorn="0.3.0.0.0.0.0.0.0.29"
+         transform="matrix(0.26458333,0,0,0.26458333,9.3248084,-11.220804)">
+        <rect
+           fill="#ffffff"
+           stroke-width="0.116906"
+           stroke-opacity="1"
+           fill-opacity="1"
+           id="rect4354"
+           stroke="#000000"
+           x="78.48291"
+           style="stroke-miterlimit:10;stroke-dasharray:none"
+           y="153.24727"
+           gorn="0.3.0.0.0.0.0.0.0.29.0"
+           height="25.177826"
+           width="51.840332" />
+        <rect
+           fill="#ffffff"
+           stroke-width="0.0974412"
+           stroke-opacity="1"
+           fill-opacity="1"
+           id="rect4354-2"
+           stroke="#000000"
+           x="81.591423"
+           style="stroke-miterlimit:10;stroke-dasharray:none"
+           y="158.55502"
+           gorn="0.3.0.0.0.0.0.0.0.29.1"
+           height="19.827448"
+           width="45.733067" />
+        <path
+           fill="#ffe500"
+           stroke-width="0.108"
+           d="m 91.301484,175.01087 h -1.632309 v -16.45924 h 1.632309 z"
+           id="connector1pin"
+           stroke="#000000"
+           style="stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none"
+           gorn="0.3.0.0.0.0.0.0.0.29.2" />
+        <rect
+           fill="none"
+           stroke-width="0"
+           id="connector1terminal"
+           stroke="none"
+           x="93.3675"
+           y="175.02499"
+           gorn="0.3.0.0.0.0.0.0.0.29.3"
+           height="0.033134501"
+           width="0.00348062" />
+        <path
+           fill="#ffe500"
+           stroke-width="0.108"
+           d="m 96.947836,175.05814 h -1.63231 V 158.5989 h 1.63231 z"
+           id="connector2pin"
+           stroke="#000000"
+           style="stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none"
+           gorn="0.3.0.0.0.0.0.0.0.29.4" />
+        <rect
+           fill="none"
+           stroke-width="0"
+           id="connector2terminal"
+           stroke="none"
+           x="100.911"
+           y="175.02499"
+           gorn="0.3.0.0.0.0.0.0.0.29.5"
+           height="0.033134501"
+           width="0.00348062" />
+        <path
+           fill="#ffe500"
+           stroke-width="0.108"
+           d="M 102.37001,175.05814 H 100.7377 V 158.5989 h 1.63231 z"
+           id="connector3pin"
+           stroke="#000000"
+           style="stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none"
+           gorn="0.3.0.0.0.0.0.0.0.29.6" />
+        <rect
+           fill="none"
+           stroke-width="0"
+           id="connector3terminal"
+           stroke="none"
+           x="108.098"
+           y="175.02499"
+           gorn="0.3.0.0.0.0.0.0.0.29.7"
+           height="0.033134501"
+           width="0.00348062" />
+        <path
+           fill="#ffe500"
+           stroke-width="0.108"
+           d="m 108.098,175.05814 h -1.6323 V 158.5989 h 1.6323 z"
+           id="connector4pin"
+           stroke="#000000"
+           style="stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none"
+           gorn="0.3.0.0.0.0.0.0.0.29.8" />
+        <rect
+           fill="none"
+           stroke-width="0"
+           id="connector4terminal"
+           stroke="none"
+           x="115.641"
+           y="175.02499"
+           gorn="0.3.0.0.0.0.0.0.0.29.9"
+           height="0.033134501"
+           width="0.0034806" />
+        <path
+           fill="#ffe500"
+           stroke-width="0.108"
+           d="m 118.93388,175.02499 h -1.6323 v -16.45924 h 1.6323 z"
+           id="connector5pin"
+           stroke="#000000"
+           style="stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none"
+           gorn="0.3.0.0.0.0.0.0.0.29.10" />
+        <rect
+           fill="none"
+           stroke-width="0"
+           id="connector5terminal"
+           stroke="none"
+           x="123.105"
+           y="175.02499"
+           gorn="0.3.0.0.0.0.0.0.0.29.11"
+           height="0.033134501"
+           width="0.0034806" />
+        <path
+           fill="#ffe500"
+           stroke-width="0.108"
+           d="M 85.7687,175.048 H 84.13639 V 158.58876 H 85.7687 Z"
+           id="connector0pin"
+           stroke="#000000"
+           style="stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none"
+           gorn="0.3.0.0.0.0.0.0.0.29.12" />
+        <rect
+           fill="none"
+           stroke-width="0"
+           id="connector0terminal"
+           stroke="none"
+           x="85.7687"
+           y="175.048"
+           gorn="0.3.0.0.0.0.0.0.0.29.13"
+           height="0.033134501"
+           width="0.00348062" />
+        <path
+           fill="#ffe500"
+           stroke-width="0.108"
+           d="m 113.5644,175.05814 h -1.6323 V 158.5989 h 1.6323 z"
+           id="connector5pin-5"
+           stroke="#000000"
+           style="stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none"
+           gorn="0.3.0.0.0.0.0.0.0.29.10" />
+        <path
+           fill="#ffe500"
+           stroke-width="0.108"
+           d="m 124.2211,175.02499 h -1.6323 v -16.45924 h 1.6323 z"
+           id="connector5pin-5-5"
+           stroke="#000000"
+           style="stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none"
+           gorn="0.3.0.0.0.0.0.0.0.29.10" />
+      </g>
+    </g>
+  </g>
+</svg>
